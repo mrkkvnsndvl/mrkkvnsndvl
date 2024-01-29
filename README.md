@@ -12,7 +12,7 @@ As a frontend developer, I focus on crafting visually appealing and intuitive us
 * ⚡  I have a cat named Kaze.
 
 <a href="https://www.github.com/markkevsandoval" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/markkevsandoval?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/markkevsandoval?logo=github&style=for-the-badge&color=f97316&labelColor=000000?v2" /></a>
 
 ### Skills
 
