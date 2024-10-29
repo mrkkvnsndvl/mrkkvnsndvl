@@ -11,7 +11,7 @@ Highly motivated developer with a strong foundation in both development and desi
 * ✉️  You can contact me at [mrkkvnsndvl@gmail.com](mailto:mrkkvnsndvl@gmail.com)
 
 <a href="https://www.github.com/mrkkvnsndvl" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mrkkvnsndvl?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/mrkkvnsndvl?logo=github&style=for-the-badge&color=000000&labelColor=000000" /></a>
 ### Skills
 
 <p align="left">
