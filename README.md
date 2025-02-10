@@ -65,15 +65,6 @@
 <a href="https://discord.com/users/mrkkvnsndvl" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
 </a>
-<a href="https://facebook.com/mrkkvnsndvl" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/>
-</a>
-<a href="https://github.com/mrkkvnsndvl" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=24292F" alt="Github"/>
-</a>
-<a href="https://instagram.com/mrkkvnsndvl" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E1306C" alt="Instagram"/>
-</a>
 <a href="https://t.me/mrkkvnsndvl" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=0088CC" alt="Telegram"/>
 </a>
