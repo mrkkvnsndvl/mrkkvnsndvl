@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="left">Hi 👋, I'm Mark Kevin</h1>
-<h3 align="left">A passionate developer from the Philippines</h3>
+<h3 align="left">A passionate versatile developer from the Philippines</h3>
 
 ---
 
