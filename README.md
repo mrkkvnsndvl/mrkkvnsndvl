@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=mrkkvnsndvl&label=PROFILE%20VIEWS&color=000000&style=for-the-badge&abbreviated=true" alt="mrkkvnsndvl" />
 </p>
 
-<h1 align="left">Hi 👋, I'm Mark Kevin</h1>
+<h1 align="left">I'm Mark Kevin</h1>
 <h3 align="left">A passionate versatile developer from the Philippines</h3>
 
 ---
@@ -53,21 +53,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=0066B8)
 ![XAMPP](https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=xampp&logoColor=FB7A24)
 ![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=CB3837)
-
-</p>
-
----
-
-### 🌐 Socials
-
-<p align="left"> 
-  
-<a href="https://discord.com/users/mrkkvnsndvl" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
-</a>
-<a href="https://t.me/mrkkvnsndvl" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=0088CC" alt="Telegram"/>
-</a>
 
 </p>
 
