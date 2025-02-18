@@ -12,6 +12,7 @@
 - 🖥️ Check out my portfolio at [mrkkvnsndvl](http://mrkkvnsndvl.vercel.app)
 - ✉️ Reach me at [mrkkvnsndvl@gmail.com](mailto:mrkkvnsndvl@gmail.com)
 - 🧠 Known for being **highly organized**, a **perfectionist**, and having a **strong attention to detail**
+- ⚡  Always learning and exploring new technologies
 
 ---
 
