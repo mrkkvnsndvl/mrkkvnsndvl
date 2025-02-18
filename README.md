@@ -73,6 +73,14 @@
 
 ---
 
+### 🎵 Now Playing
+
+<p align="left">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=kt7tlwuuqptqwn1w8yjaoyrwt&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=53b14f" />
+</p>
+
+---
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mrkkvnsndvl&show_icons=true&theme=dark" alt="Mark Kevin's GitHub Stats" />
 </p>
