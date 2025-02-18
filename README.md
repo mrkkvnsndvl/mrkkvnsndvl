@@ -1,25 +1,23 @@
-<p align="left">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=mrkkvnsndvl&label=PROFILE%20VIEWS&color=000000&style=for-the-badge&abbreviated=true" alt="mrkkvnsndvl" />
-</p>
+</div>
 
 <h1 align="left">I'm Mark Kevin</h1>
 <h3 align="left">A passionate versatile developer from the Philippines</h3>
 
 ---
 
-### 🚀 About Me
-
-- 🌍  I'm based in the **Philippines**
-- 🖥️  Check out my portfolio at [mrkkvnsndvl](http://mrkkvnsndvl.vercel.app)
-- ✉️  Reach me at [mrkkvnsndvl@gmail.com](mailto:mrkkvnsndvl@gmail.com)
-- 🧠  Known for being **highly organized**, a **perfectionist**, and having a **strong attention to detail**
+## 🚀 About Me
+- 🌍 Based in the **Philippines**
+- 🖥️ Check out my portfolio at [mrkkvnsndvl](http://mrkkvnsndvl.vercel.app)
+- ✉️ Reach me at [mrkkvnsndvl@gmail.com](mailto:mrkkvnsndvl@gmail.com)
+- 🧠 Known for being **highly organized**, a **perfectionist**, and having a **strong attention to detail**
 
 ---
 
-### 🛠️ Skills
-
-<p align="left">
-
+## 🛠️ Tech Stack & Tools
+<div align="left">
+  
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
 ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-000000?style=for-the-badge&logo=apachenetbeanside&logoColor=F1C232)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
@@ -53,19 +51,19 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=0066B8)
 ![XAMPP](https://img.shields.io/badge/XAMPP-000000?style=for-the-badge&logo=xampp&logoColor=FB7A24)
 ![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=CB3837)
-
-</p>
+  
+</div>
 
 ---
 
-### 🎵 Now Playing
-
-<p align="left">
+## 🎵 Now Playing
+<div align="left">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=kt7tlwuuqptqwn1w8yjaoyrwt&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=53b14f" />
-</p>
+</div>
 
 ---
 
-<p align="left">
+## 📊 GitHub Stats
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mrkkvnsndvl&show_icons=true&theme=dark" alt="Mark Kevin's GitHub Stats" />
-</p>
+</div>
