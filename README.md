@@ -7,16 +7,16 @@
 
 ---
 
-## 🚀 About Me
-- 🌍 Based in the **Philippines**
-- 🖥️ Check out my portfolio at [mrkkvnsndvl](http://mrkkvnsndvl.vercel.app)
-- ✉️ Reach me at [mrkkvnsndvl@gmail.com](mailto:mrkkvnsndvl@gmail.com)
-- 🧠 Known for being **highly organized**, a **perfectionist**, and having a **strong attention to detail**
-- ⚡  Always learning and exploring new technologies
+## About Me
+- Based in the **Philippines**
+- Check out my portfolio at [mrkkvnsndvl](http://mrkkvnsndvl.vercel.app)
+- Reach me at [mrkkvnsndvl@gmail.com](mailto:mrkkvnsndvl@gmail.com)
+- Known for being **highly organized**, a **perfectionist**, and having a **strong attention to detail**
+- Always learning and exploring new technologies
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 <div align="left">
   
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
@@ -57,14 +57,7 @@
 
 ---
 
-## 🎵 Now Playing
+## Now Playing
 <div align="left">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=kt7tlwuuqptqwn1w8yjaoyrwt&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false&bar_color=53b14f" />
-</div>
-
----
-
-## 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrkkvnsndvl&show_icons=true&theme=dark" alt="Mark Kevin's GitHub Stats" />
 </div>
