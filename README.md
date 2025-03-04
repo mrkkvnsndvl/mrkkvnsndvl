@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="left">I'm Mark Kevin</h1>
-<h3 align="left">A passionate versatile developer from the Philippines</h3>
+<h3 align="left">A passionate fullstack developer from the Philippines</h3>
 
 ---
 
